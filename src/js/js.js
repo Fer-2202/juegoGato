@@ -34,6 +34,11 @@ for (let index = 0; index < contenedor.length; index++) {
             jugador = true 
 
            
+
+            btnReiniciar.addEventListener("click",function () {
+            location.reload ()
+            })
+           
          }
          
       }
