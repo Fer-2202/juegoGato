@@ -1,0 +1,8 @@
+Fue un proyecto algo dificil para mi ya que las funciones en java me siguen costando aunque aun hay
+ciertas cosas que no logre añadirla 
+
+Mi gato aun no valida el ganador pero solo se puede jugar con la maquina aunque no es un gran gato
+espero seguir mejorando y pulir mis habilidades como programador 
+
+espece creando las carpetas y despues seguir creando el html y despues un poco de css y 
+por ultimo las agregue algo de java para que funcionara
