@@ -19,7 +19,7 @@
     text-align: center;
 }
 
-.btn{
+#btnReiniciar{
     display: flex;
     justify-content: center;
 }

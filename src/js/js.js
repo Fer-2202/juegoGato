@@ -1,6 +1,6 @@
 const tablero = document.getElementsByClassName ("tablero");
 const contenedor = document.getElementsByClassName ("contenedor");
-const btn = document.getElementsByClassName ("botonReiniciar");
+const btnReiniciar = document.getElementById ("btnReiniciar");
 let mensaje = document.getElementById ("mensaje");
 
 let contenedores = []
@@ -26,18 +26,18 @@ for (let index = 0; index < contenedor.length; index++) {
          
             contenedores = contenedores.filter(cont => cont !== contenedor[index])
 
-
             let valorale = contenedores[Math.floor(Math.random () * contenedores.length)];
          
             contenedores = contenedores.filter(cont => cont !== valorale)
 
             valorale.textContent = "O"
             jugador = true 
+
            
          }
          
       }
-    }) 
+    })
     };
 
 
